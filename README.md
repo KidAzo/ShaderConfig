@@ -11,4 +11,3 @@ This system allows dynamic hiding of grid areas based on 3D object colliders in 
 https://github.com/user-attachments/assets/50a196fd-d8f4-4461-b7c0-e10958e39b5f
 
 
-![image](https://github.com/user-attachments/assets/f387fff2-c887-47ea-aa90-7919a3f25922)
